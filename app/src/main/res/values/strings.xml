@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AutoComplete</string>
+    <string-array name="names">
+        <item>mohit</item>
+        <item>mohindru</item>
+        <item>mohan</item>
+        <item>mohirde</item>
+        <item>momhbscg</item>
+        <item>mohhsdbd</item>
+        <item>mohfhcnu</item>
+    </string-array>
+
+</resources>
